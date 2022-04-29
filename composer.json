@@ -1,5 +1,6 @@
 {
   "name": "periya/s3bucket",
+  "version": "ps2.0",
   "description": "Aws S3 Bucket read/write/delete operation",
   "type": "library",
   "require": {
