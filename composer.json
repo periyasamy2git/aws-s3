@@ -1,5 +1,5 @@
 {
-  "name": "periya/S3Bucket",
+  "name": "periya/s3bucket",
   "description": "Aws S3 Bucket read/write/delete operation",
   "type": "library",
   "repositories": [
