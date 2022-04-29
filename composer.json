@@ -1,5 +1,5 @@
 {
-  "name": "periya/s3bucket",
+  "name": "periya/S3Bucket",
   "description": "Aws S3 Bucket read/write/delete operation",
   "type": "library",
   "repositories": [
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "S3Bucket\\": "src/S3Bucket/"
+      "S3Bucket\\": "src/"
      }
   },
   "authors": [
@@ -21,7 +21,5 @@
       "name": "Periyasamy S",
       "email": "periyasamycsi@gmail.com"
     }
-  ],
-  "license" : "MIT",
-  "minimum-stability": "dev"
+  ]
 }

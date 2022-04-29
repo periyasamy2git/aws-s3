@@ -1,6 +1,6 @@
 <?php 
 
-include("./vendor/autoload.php");
+use S3Bucket\S3Bucket;
 
 use Aws\S3\S3Client;
 use Aws\Common\Credentials\Credentials;
