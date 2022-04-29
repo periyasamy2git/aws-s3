@@ -22,5 +22,6 @@
       "email": "periyasamycsi@gmail.com"
     }
   ],
-  "license" : "MIT"
+  "license" : "MIT",
+  "minimum-stability": "dev"
 }
