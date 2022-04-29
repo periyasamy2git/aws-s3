@@ -2,12 +2,6 @@
   "name": "periya/s3bucket",
   "description": "Aws S3 Bucket read/write/delete operation",
   "type": "library",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/aws/aws-sdk-php"
-    }
-   ],
   "require": {
     "aws/aws-sdk-php": "^3.180"
   },
