@@ -14,6 +14,7 @@
   "autoload": {
     "psr-4": {
       "S3Bucket\\": "src/S3Bucket/"
+     }
   },
   "authors": [
     {
