@@ -1,0 +1,21 @@
+{
+  "name": "periya/s3bucket",
+  "version": "ps2.0",
+  "description": "Aws S3 Bucket read/write/delete operation",
+  "type": "library",
+  "require": {
+    "aws/aws-sdk-php": "^3.180"
+  },
+  "autoload": {
+    "psr-4": {
+      "Aws\S3Bucket\\": "src/"
+     }
+  },
+  "authors": [
+    {
+      "name": "Periyasamy S",
+      "email": "periyasamycsi@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
