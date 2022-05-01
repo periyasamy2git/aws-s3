@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Aws\S3Bucket\\": "src/"
+      "S3Bucket\\": "src/"
      }
   },
   "authors": [
